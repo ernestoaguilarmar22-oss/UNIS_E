@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+SEMAFORO DIGITAL
 
 ## How to test
-
-Explain how to use your project
+CON PINES PARA MANDAR SEÑALES  0-1 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LEDS, COMPUERTAS ETC
